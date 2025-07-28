@@ -57,5 +57,5 @@ Shows monthly contribution to profit change with green (increase) and red (decre
         Compare performance across product lines
 
 Screenshot :
-[!image alt](https://github.com/Parixit-Chavda/Plant-Co.-Project/blob/main/Palnt%20Co..png)
+[!alt text](https://github.com/Parixit-Chavda/Plant-Co.-Project/blob/main/Palnt%20Co..png)
 
